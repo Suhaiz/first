@@ -1,0 +1,1 @@
+# find the second largest no in the array using single for loop
